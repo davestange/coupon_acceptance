@@ -57,5 +57,3 @@ With all categories having an acceptance rate of at least 50%, combining metrics
 Looking at the occupations which _did not_ accept the coupon, it was largely occupations which had lower income, as seen below.
 ![alt text](images/occupation_vs_income.png)
 
-## Further Context
-The relationship between occupation and acceptance rate can be seen below. 
